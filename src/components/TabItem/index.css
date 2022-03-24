@@ -1,0 +1,15 @@
+.btn {
+  padding: 0.3rem 0.7rem;
+  font-size: 0.8rem;
+  background-color: transparent;
+  border-style: none;
+  border-bottom: 0.1rem solid #7b8794;
+  font-size: 0.7rem;
+  color: #7b8794;
+  cursor: pointer;
+  font-family: Bree Serif;
+}
+.active {
+  color: #2563eb;
+  border-bottom: 0.1rem solid #2563eb;
+}
